@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prasad-yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-yewle" height="30" width="40" /></a>
-<a href="https://fb.com/prasad yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad yewle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasad-yewle-a686111b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbJtrs6WKQJqD3m2G%2B0PUFw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-yewle" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prasad.yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad yewle" height="30" width="40" /></a>
 <a href="https://instagram.com/prasad_yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_yewle" height="30" width="40" /></a>
 </p>
 
