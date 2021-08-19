@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Yewle</h1>
-<p align="center">A passionate software developer from India. always thought of becoming a software developer. I still remember my first programming class where I executed my first program which was '' Hello World! ''. As I went through the BASIC tutorial, It was almost magic, being able to get the computer to do whatever I wanted. Throughout my graduation I learned different languages and frameworks which enhanced my technical skills. I love applying responsive design principles and watch my web pages shrink into mobile screens. It's oddly satisfying for me to be honest. My specialities include quickly learning new skills, programming languages, problem solving, new frameworks. I can call myself as a fast learner.So,now this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.</p>
+<p align="center">A passionate developer from India.I always thought of becoming a software developer. I still remember my first programming class where I executed my first program which was "Hello World!". As I went through the BASIC tutorial, It was almost magic, being able to get the computer to do whatever I wanted. Throughout my graduation I learned different languages and frameworks which enhanced my technical skills. I love applying responsive design principles and watch my web pages shrink into mobile screens. It's oddly satisfying for me to be honest. My specialities include quickly learning new skills, programming languages, problem solving, new frameworks. I can call myself as a fast learner.So,now this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,11 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3> -HTML5 </h3>
-<h3> -CSS3 </h3>
-<h3> -Javascript </h3>
-<h3>- jQuery </h3>
-<h3> -Bootstrap </h3>
-<h3> -Python </h3>
-<h3> -Flask </h3>
-<h3> -MySQL </h3>
+<h3>HTML5| CSS3 | Javascript | jQuery | Bootstrap5 | Python | Flask | MySQL | Git </h3>
+
+
+
