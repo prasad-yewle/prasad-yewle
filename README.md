@@ -1,14 +1,14 @@
-<h1 align="center"><img src="https://repository-images.githubusercontent.com/393696711/b3ef6f28-dfa9-476f-b9af-8acb72ed7c57" height="300px" width="1200px"></h1>
+<h1 align="center"><img src="https://repository-images.githubusercontent.com/393696711/b3ef6f28-dfa9-476f-b9af-8acb72ed7c57" height="250px" width="1200px"></h1>
 
-<h3>Hello World!<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3>
+<h3>Hello World! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3>
 
-<p>Hi, I'm <a href="https://prasad-yewle.github.io/">Prasad Yewle</a>.A passionate developer from India.I always thought of becoming a software developer. I still remember my first programming class where I executed my first program which was "Hello World!". As I went through the BASIC tutorial, It was almost magic, being able to get the computer to do whatever I wanted.I love applying responsive design principles and watch my web pages shrink into mobile screens. It's oddly satisfying for me to be honest.</p>
+<p>Hi, I'm <a href="https://prasad-yewle.github.io/">Prasad Yewle</a>. A passionate developer from India. I always thought of becoming a software developer. I still remember my first programming class where I executed my first program which was "Hello World!". As I went through the BASIC tutorial, It was almost magic, being able to get the computer to do whatever I wanted.I love applying responsive design principles and watch my web pages shrink into mobile screens. It's oddly satisfying for me to be honest.</p>
 
 <li>🤔 Any queries? reach me at, <a href="mailto:prasadyewle199@gmail.com">email</a> :)
  <br>
  <p>
 <li>💬 Wanna leave any message? Or just wanna say hii, Contact me at &nbsp<a href="https://www.linkedin.com/in/prasad-yewle-a686111b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbJtrs6WKQJqD3m2G%2B0PUFw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-yewle" height="17" width="20" /></a>
-<a href="https://www.facebook.com/prasad.yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad yewle" height="18" width="20" /></a>
+<a href="https://www.facebook.com/prasad.yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad yewle" height="18" width="17" /></a>&nbsp
 <a href="https://instagram.com/prasad_yewle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_yewle" height="18" width="20" /></a></p>
 
 <h4>Languages and Tools</h4>
